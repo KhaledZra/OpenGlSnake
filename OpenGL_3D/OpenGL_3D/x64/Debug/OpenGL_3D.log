@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\Khaled\source\repos\OpenGL_3D\OpenGL_3D\src\Game.cpp(80,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Khaled\source\repos\OpenGL_3D\OpenGL_3D\src\Game.cpp(153,35): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  OpenGL_3D.vcxproj -> C:\Users\Khaled\source\repos\OpenGL_3D\x64\Debug\OpenGL_3D.exe
